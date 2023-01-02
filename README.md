@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7A28CB&center=true&multiline=true&repeat=false&width=500&height=70&lines=Ol%C3%A1!+Sou+Cleyton+Furtado+;Desenvolvedor+Full-Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7A28CB&center=true&multiline=true&repeat=false&width=1000&height=70&lines=Ol%C3%A1!+Sou+Cleyton+Furtado+;Desenvolvedor+Full-Stack+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>Iniciei meus estudos em programação aos 14 anos de idade, sempre gostei muito da área de tecnologia e como ela impacta positivamente na vida das pessoas.</p>
 
