@@ -25,20 +25,16 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/javascript"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/typescript"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/react"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/cypress"/>          
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/>         
   </p>  
 
   <h3 align="center" style="margin-top: 32px;">Back End</h3>
   <p align="center">
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nodedotjs/"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/python" /> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/express"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/django"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/express"/>  
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nestjs"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/flask"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/docker"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/amazonaws"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/googlecloud"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/amazonaws"/> 
   </p>  
@@ -49,6 +45,12 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/mongodb" /> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/postgresql"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/sqlite"/> 
+  </p>  
+
+  <h3 align="center" style="margin-top: 32px;">Testes</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/cypress/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jest"/>  
   </p>  
 
   <h3 align="center" style="margin-top: 32px;">Ferramentas</h3>
