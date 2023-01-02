@@ -62,3 +62,13 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/slack"/> 
   </p>  
 </h2>
+
+***************
+
+<h2 align="center">Entre em contato:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/cleyton-furtado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+***************
+
