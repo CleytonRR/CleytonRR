@@ -15,3 +15,47 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cleytonRR&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonRR&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+***************
+<h2 align="center">Linguagens e Ferramentas</h2>
+  <h3 align="center">Front End</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/html5"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/css3" /> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/javascript"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/typescript"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/react"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/cypress"/>          
+  </p>  
+
+  <h3 align="center" style="margin-top: 32px;">Back End</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nodedotjs/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/python" /> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/express"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/django"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/nestjs"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/flask"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/docker"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/amazonaws"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/googlecloud"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/amazonaws"/> 
+  </p>  
+  <h3 align="center" style="margin-top: 32px;">Banco de Dados</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/mysql/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/firebase"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/mongodb" /> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/postgresql"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/sqlite"/> 
+  </p>  
+
+  <h3 align="center" style="margin-top: 32px;">Ferramentas</h3>
+  <p align="center">
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/figma/"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/" /> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/postgresql"/> 
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/sqlite"/> 
+  </p>  
+</h2>
