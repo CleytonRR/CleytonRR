@@ -58,8 +58,7 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/figma/"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/jira/"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/git" />  
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/visualstudiocode"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/git" />  
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/visualstudiocode"/>   
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/slack"/> 
   </p>  
 </h2>
