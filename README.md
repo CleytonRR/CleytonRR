@@ -25,7 +25,9 @@
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/javascript"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/typescript"/> 
     <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/react"/> 
-    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/>         
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/redux"/>      
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/mui"/>  
+    <img height="40" width="40" style="margin-right:16px;" src="https://cdn.simpleicons.org/tailwindcss"/>   
   </p>  
 
   <h3 align="center" style="margin-top: 32px;">Back End</h3>
