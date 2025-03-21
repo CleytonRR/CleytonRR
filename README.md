@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cleytonRR.cleytonRR&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋<br>I'm Cleyton Furtado</h1>
 
 ###
